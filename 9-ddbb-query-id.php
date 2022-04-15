@@ -1,5 +1,5 @@
 <?php
-	require "ddbb-connection.php";
+	require "7-ddbb-connection.php";
 	function getCity() {
 		$DDBB = createConnection("world");
 		$query = "SELECT ID, Name, CountryCode FROM city ORDER BY Name ASC LIMIT 10";

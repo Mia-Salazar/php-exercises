@@ -1,5 +1,5 @@
 <?php
-	require "ddbb-connection.php";
+	require "7-ddbb-connection.php";
 	function getCity() {
 		$DDBB = createConnection("world");
 		$query = "SELECT Name FROM city WHERE ID = 1";
