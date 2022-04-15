@@ -17,6 +17,7 @@
 * form-get-3.php, form-get-2.php, form-get.php &#8594; Exercise with a form with a get method, data management on different page, functions on another file and a switch
 * ddbb-connection.php, ddbb-query.php, ddbb-city.php &#8594; Exercise connecting to a MySQL and showing one single result
 * ddbb-query-list.php, ddbb-city-list.php &#8594; Exercise showing multiple rows
+* ddbb-query-id.php, ddbb-city-id.php &#8594; Exercise with multiple queries using the id of one query to search in another query
 
 ## Authors
 
