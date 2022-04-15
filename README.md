@@ -18,6 +18,7 @@
 * 7-ddbb-connection.php, 7-ddbb-query.php, 7-ddbb-city.php &#8594; Exercise connecting to a MySQL and showing one single result
 * 8-ddbb-query-list.php, 8-ddbb-city-list.php &#8594; Exercise showing multiple rows
 * 9-ddbb-query-id.php, 9-ddbb-city-id.php &#8594; Exercise with multiple queries using the id of one query to search in another query
+* 10-query-order-country.php, 10-view-order-country.php &#8594; Exercise with dynamic "order by"
 
 ## Authors
 
