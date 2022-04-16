@@ -26,7 +26,7 @@
 <body>
 	<?php 
 		include '12-query-delete.php';
-		function getCountries() {
+		function getCountriesSelect() {
 			$data = getCityData();
 			foreach ($data as $row) {
 				echo "<option value='" . $row["ID"] . "'>" . $row["Name"] . "</option>";
@@ -37,7 +37,7 @@
 	<form method="get" action="12-view-delete.php" style="display: flex;flex-direction: column;" id="form">
 		<label for="city">Choose city</label>
 		<select name="city" form="form">
-			<?php getCountries() ?>
+			<?php getCountriesSelect() ?>
 		</select>
 		<button class="button" type="submit">Delete</button>
 	</form>
