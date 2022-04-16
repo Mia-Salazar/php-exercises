@@ -20,6 +20,7 @@
 * 9-ddbb-query-id.php, 9-ddbb-city-id.php &#8594; Exercise with multiple queries using the id of one query to search in another query
 * 10-query-order-country.php, 10-view-order-country.php &#8594; Exercise with dynamic "order by"
 * 11-query-insert.php, 11-view-insert.php, 11-view-added.php &#8594; Exercise adding new data to MySQL
+* 12-query-delete.php, 12-view-delete.php &#8594; Exercise deleting data from DB
 
 ## Authors
 
