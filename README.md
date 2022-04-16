@@ -22,7 +22,7 @@
 * 11-query-insert.php, 11-view-insert.php, 11-view-added.php &#8594; Exercise adding new data to MySQL
 * 12-query-delete.php, 12-view-delete.php &#8594; Exercise deleting data from DB
 * 13-query-delete.php, 13-view-delete.php, 13-view-deleted.php &#8594; Exercise deleting data from DB from a list
-* 14-query-edit.php, 14-view-edit.php, 14-view-edited.php, 14-vie-edit-form &#8594; Exercise editing an existing city
+* 14-query-edit.php, 14-view-edit.php, 14-view-edited.php, 14-view-edit-form &#8594; Exercise editing an existing city
 
 ## Authors
 
