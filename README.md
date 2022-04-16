@@ -21,6 +21,7 @@
 * 10-query-order-country.php, 10-view-order-country.php &#8594; Exercise with dynamic "order by"
 * 11-query-insert.php, 11-view-insert.php, 11-view-added.php &#8594; Exercise adding new data to MySQL
 * 12-query-delete.php, 12-view-delete.php &#8594; Exercise deleting data from DB
+* 13-query-delete.php, 13-view-delete.php, 13-view-deleted.php &#8594; Exercise deleting data from DB from a list
 
 ## Authors
 
